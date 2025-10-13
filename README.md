@@ -24,7 +24,7 @@
 
 ## 자원
 
-GTSRB - German Traffic Sign Recognition Benchmark : https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+데이터셋 : GTSRB - German Traffic Sign Recognition Benchmark - https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 ## 업무 분담
 김진형 - 데이터셋 확보, 이미지 전처리
