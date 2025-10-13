@@ -35,3 +35,5 @@
 5. 실시간 입력 영상 적용
 
 ## 참고 문헌
+
+https://github.com/ayushgayakwad/road-sign-recognition?utm_source=chatgpt.com
