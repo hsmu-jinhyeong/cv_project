@@ -177,12 +177,12 @@ ResNet18 모델로 분류
 OpenCV Overlay로 사용자에게 시각 표시
 
 ## 8.2 주요 코드
-
+```
 cv2.putText(
     frame, label_text, (20, 40),
     cv2.FONT_HERSHEY_SIMPLEX, 1.0, (0,255,0), 2
 )
-
+```
 ## 8.3 결과
 
 프레임 당 약 0.1~0.3초 속도로 실시간 인식
